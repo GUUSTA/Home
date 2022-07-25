@@ -8,11 +8,11 @@
 import UIKit
 import Coordinator
 
-final class HomeViewController: UIViewController, Coordinating {
+public final class HomeViewController: UIViewController, Coordinating {
     
-    var coordinator: Coordinator?
+    public var coordinator: Coordinator?
     
-    override func viewDidLoad() {
+    public override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = .green
     }

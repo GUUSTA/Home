@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "coordinator",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/GUUSTA/Coordinator.git",
+      "state" : {
+        "revision" : "13bd62a416eebe6169b698ce143b3a6d767d3639",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
